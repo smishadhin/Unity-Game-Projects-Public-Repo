@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\smishadhin\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_Super Platformer.-1518941252.00" t="ExcludeRecursive" />
+    <e p="C:\Users\smishadhin\Unity Projects\Super Platformer" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Audio" t="Include">
+          <e p="Audio Credits.txt" t="Include" />
+        </e>
+        <e p="ColoredPrefabs.cs" t="Include" />
+        <e p="DroppingPlatform.cs" t="Include" />
+        <e p="Fonts" t="Include">
+          <e p="Apostrophic Labs License.txt" t="Include" />
+        </e>
+        <e p="LevelGenerator.cs" t="Include" />
+        <e p="MovingPlatform.cs" t="Include" />
+        <e p="Paralax.cs" t="Include" />
+        <e p="PlayerStuck.cs" t="Include" />
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CamraCtrl.cs" t="Include" />
+          <e p="CoinCtrl.cs" t="Include" />
+          <e p="CoinsCollector.cs" t="Include" />
+          <e p="DestryWithdelay.cs" t="Include" />
+          <e p="DroppingPlatform.cs" t="Include" />
+          <e p="FeetCtrl.cs" t="Include" />
+          <e p="fragmentctrl.cs" t="Include" />
+          <e p="GameCtrl.cs" t="Include" />
+          <e p="GameData.cs" t="Include" />
+          <e p="GarbageCtrl.cs" t="Include" />
+          <e p="HeadCtrl.cs" t="Include" />
+          <e p="Helpers" t="Include">
+            <e p="DestroyWithDelay.cs" t="Include" />
+          </e>
+          <e p="MenuCtrl.cs" t="Include" />
+          <e p="MobileUiCtrl.cs" t="Include" />
+          <e p="MovingPlatform.cs" t="Include" />
+          <e p="Paralax.cs" t="Include" />
+          <e p="playerbulletctrl.cs" t="Include" />
+          <e p="PlayerCtrl.cs" t="Include" />
+          <e p="PlayerStuck.cs" t="Include" />
+          <e p="Samples" t="Include">
+            <e p="SamplePlatform.cs" t="Include" />
+          </e>
+          <e p="SFX.cs" t="Include" />
+          <e p="SFXCtrl.cs" t="Include" />
+        </e>
+        <e p="Sprites" t="Include">
+          <e p="Actors" t="Include">
+            <e p="Enemies" t="Include">
+              <e p="monster-croc" t="Include">
+                <e p="Crocodile Mascot Running Game Character" t="Include">
+                  <e p="get more at bevouliin_dot_com.txt" t="Include" />
+                </e>
+              </e>
+              <e p="monster_round" t="Include">
+                <e p="get more at bevouliin_dot_com.txt" t="Include" />
+              </e>
+              <e p="monster_sqaure" t="Include">
+                <e p="get more at bevouliin_dot_com.txt" t="Include" />
+              </e>
+              <e p="monster_tiger" t="Include">
+                <e p="get more at bevouliin_dot_com.txt" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Super Platformer.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

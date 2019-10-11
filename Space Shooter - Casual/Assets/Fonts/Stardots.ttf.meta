@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d387f48123fcf594eae600a7f336fd03
+timeCreated: 1509807479
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stardots
+  fontNames:
+  - Stardots
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

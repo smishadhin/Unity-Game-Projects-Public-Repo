@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cf992cf32d45b164c8dc0f9b4891720c
+timeCreated: 1509807527
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Star Cine
+  fontNames:
+  - Star Cine
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
